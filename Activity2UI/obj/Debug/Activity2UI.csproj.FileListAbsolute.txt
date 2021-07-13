@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Activity2UI\Activity2UI\obj\Debug\Activity2UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Activity2UI\Activity2UI\bin\Debug\Activity2UI.exe.config
+C:\Users\hp\source\repos\Activity2UI\Activity2UI\bin\Debug\Activity2UI.exe
+C:\Users\hp\source\repos\Activity2UI\Activity2UI\bin\Debug\Activity2UI.pdb
+C:\Users\hp\source\repos\Activity2UI\Activity2UI\bin\Debug\Activity2BL.dll
+C:\Users\hp\source\repos\Activity2UI\Activity2UI\bin\Debug\Activity2BL.pdb
+C:\Users\hp\source\repos\Activity2UI\Activity2UI\obj\Debug\Activity2UI.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Activity2UI\Activity2UI\obj\Debug\Activity2UI.csproj.CopyComplete
+C:\Users\hp\source\repos\Activity2UI\Activity2UI\obj\Debug\Activity2UI.exe
+C:\Users\hp\source\repos\Activity2UI\Activity2UI\obj\Debug\Activity2UI.pdb
